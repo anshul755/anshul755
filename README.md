@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=5000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Patel+Anshul+Bakulbhai;A+Passionate+Full-Stack+Developer+%26+AI+Enthusiast;Turning+Ideas+into+Reality+with+Code" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=5000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Patel+Anshul+Bakulbhai;A+Passionate+Full-Stack+Developer+%26+AI+Enthusiast;Turning+Ideas+into+Reality+with+Code" alt="Animated Header" />
 </p>
 
 <h2 align="center">👋 Welcome to My GitHub Universe!</h2>
@@ -56,7 +56,6 @@ I’m a tech enthusiast from India with a passion for building impactful solutio
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anshul755&show_icons=true&theme=dracula" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshul755&theme=dracula" alt="GitHub Streak"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul755&layout=compact&theme=dracula" alt="Top Languages"/>
