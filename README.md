@@ -1,20 +1,24 @@
-## 👋 Hi there! I'm **Patel Anshul Bakulbhai**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=27&pause=1000&color=F700A7&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Patel+Anshul+Bakulbhai;A+Passionate+Full-Stack+Developer+%26+AI+Enthusiast+from+India" alt="Animated Text" />
+</p>
 
-### 🚀 A Passionate Full-Stack Developer & AI Enthusiast from India
-
-- 🔥 Building scalable web applications & AI models
-- 💡 Always exploring new technologies & frameworks
-- 🎯 Solving real-world problems with **MERN Stack, Python, and AI**
-- 🎨 Love designing clean, interactive, and intuitive UIs
-- 📫 Reach me at **anshulpatel2023@gmail.com**
+## 🚀 About Me
+- 🔥 Building scalable web applications & AI models  
+- 💡 Always exploring new technologies & frameworks  
+- 🎯 Solving real-world problems with **MERN Stack, Python, and AI**  
+- 🎨 Designing clean, interactive, and intuitive UIs  
+- 📫 Reach me at **[anshulpatel2023@gmail.com](mailto:anshulpatel2023@gmail.com)**  
 
 ---
 
-### 🌎 Connect with me
+### 🌎 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/anshul755" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/> </a>
-  <a href="https://github.com/anshul755" target="_blank"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/> </a>
-  <a href="mailto:anshulpatel2023@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"/> </a>
+  <a href="https://github.com/anshul755" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="mailto:anshulpatel2023@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email"/>
+  </a>
 </p>
 
 ---
@@ -44,7 +48,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul755&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
+### 💡 Fun Fact
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="100" alt="fun fact"/>
+</p>
+😄 I love **open-source projects**, **AI research**, and **creating cool tech solutions**! Let's build something amazing together! 🚀
+
 ---
 
-### 💡 Fun Fact
-😄 I love **open-source projects**, **AI research**, and **creating cool tech solutions**! Let's build something amazing together! 🚀
+<p align="center">
+  <img src="https://profile-counter.glitch.me/anshul755/count.svg" alt="Visitor Count" />
+</p>
