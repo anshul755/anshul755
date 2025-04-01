@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Patel+Anshul+Bakulbhai;A+Passionate+Full-Stack+Developer+%26+AI+Enthusiast;Turning+Ideas+into+Reality+with+Code" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=30&duration=5000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+Patel+Anshul+Bakulbhai;A+Passionate+Full-Stack+Developer+%26+AI+Enthusiast;Turning+Ideas+into+Reality+with+Code" alt="Animated Header" />
 </p>
 
 <h2 align="center">👋 Welcome to My GitHub Universe!</h2>
@@ -24,12 +24,6 @@ I’m a tech enthusiast from India with a passion for building impactful solutio
   </a>
   <a href="mailto:anshulpatel2023@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/anshul-patel-123456789/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/anshulpatel" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
 
@@ -66,21 +60,6 @@ I’m a tech enthusiast from India with a passion for building impactful solutio
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul755&layout=compact&theme=dracula" alt="Top Languages"/>
-</p>
-
----
-
-## 💡 Fun Fact
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuMEwyOY9KLu/giphy.gif" width="100" alt="Fun Fact GIF"/>
-</p>
-
----
-
-## 🌟 GitHub Highlights
-<p align="center">
-  <img src="https://img.shields.io/github/stars/anshul755?style=social" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/forks/anshul755?style=social" alt="GitHub Forks"/>
 </p>
 
 ---
