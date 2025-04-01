@@ -55,11 +55,12 @@ I’m a tech enthusiast from India with a passion for building impactful solutio
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anshul755&show_icons=true&theme=dracula" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anshul755&show_icons=true&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&bg_color=ffffff" alt="GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul755&layout=compact&theme=dracula" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshul755&layout=compact&title_color=1E90FF&icon_color=1E90FF&text_color=1E90FF&bg_color=ffffff" alt="Top Languages"/>
 </p>
+
 
 ---
 
